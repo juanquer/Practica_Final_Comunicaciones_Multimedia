@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mt",
+				"mt-1 \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"w-50 \tBootstrap 4 Class"
+			],
+			[
+				"tarjeta",
+				"tarjetaProximamente"
+			],
+			[
+				"col-lg",
+				"col-lg-6 \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-2 \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-0 \tBootstrap 4 Class"
+			],
+			[
+				"py",
+				"py-0 \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-1 \tBootstrap 4 Class"
+			],
+			[
+				"pb",
+				"pb-5 \tBootstrap 4 Class"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"nombre",
+				"nombreUsuario"
+			],
+			[
+				"orde",
+				"order-2 \tBootstrap 4 Class"
+			],
+			[
+				"justi",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"video",
+				"video_room"
+			],
+			[
+				"reunion",
+				"reunionBadge"
+			],
+			[
+				"tarjetar",
+				"tarjetaReuniones"
+			],
+			[
+				"align",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"align-se",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"align-ite",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"bg",
+				"bg-light \tBootstrap 4 Class"
+			],
+			[
+				"ur",
+				"url_for"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"btn",
+				"btn-dark \tBootstrap 4 Class"
+			],
+			[
+				"justify-co",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"align-it",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"alig",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-xl-6 \tBootstrap 4 Class"
+			],
+			[
+				"justify",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"h",
+				"h-25 \tBootstrap 4 Class"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"constraints"
+			],
+			[
+				"remote",
+				"remoteView"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 6396,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/login.html",
+			"settings":
+			{
+				"buffer_size": 5113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 11011,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/calls.html",
+			"settings":
+			{
+				"buffer_size": 6448,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cayetanovaleroamores/Desktop/Challenge",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/css",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates"
+	],
+	"file_history":
+	[
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/video_room.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/text.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/meetings.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/videoroom.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/meetings.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/text.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/calls.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/calls.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/janus.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/videoroomtest.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/videoroomtest.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/templates/videoroom.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/static/js/videocalltest.js",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/video-room.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/index.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/home.html",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/index-alt.html",
+		"/Users/cayetanovaleroamores/Downloads/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg",
+		"/Users/cayetanovaleroamores/Desktop/Challenge/Challenge.sublime-project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Video",
+			"getCookie",
+			"Nuevo",
+			"register",
+			"4321",
+			"1234",
+			"iframe",
+			"Remote Video",
+			"hidden",
+			"hide",
+			"invisible",
+			"you",
+			"hide",
+			"none",
+			"display",
+			"display:",
+			"none",
+			"show"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Participante",
+			"New",
+			"Participante",
+			"hide",
+			"hidden",
+			"d-none",
+			"invisible"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1147,
+								1147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2919,
+								2919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/calls.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2668,
+								2668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Challenge.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
