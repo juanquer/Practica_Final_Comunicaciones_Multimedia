@@ -3,7 +3,7 @@
 <head>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no">
 
 	<link rel="icon" type="image/png" href="{{url_for('static', filename='img/icon.png')}}"/>
 
@@ -39,9 +39,9 @@
 			</div>
 		</div>
 	</nav>
-	<div class="container-fluid">
+	<div class="container-fluid d-none d-sm-none d-md-block">
 		<div class="row justify-content-center pb-5 mb-5">
-			<div class="col-xxl-5 col-xl-7 col-lg-8 col-sm-12 col-xs-12">
+			<div class="col-xxl-5 col-xl-7 col-lg-8 col-md-9 col-sm-12 col-12">
 				<div id="carouselCaptions" class="carousel slide w-100" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
@@ -92,55 +92,54 @@
 			
 		</div>
 	</div>
-
-	<div class="container">
-		<div class="row justify-content-evenly">
-			<div class="col-xl-3 text-center mb-3" data-aos="fade-right">
+	<div class="container mt-4">
+		<div class="row row-cols-2 justify-content-evenly">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mb-3 mx-auto" data-aos="fade-right">
 				<img src="{{url_for('static', filename='img/meeting-big-2.png')}}" class="img-fluid">
 			</div>
-			<div class="col-xl-3 text-center mb-3" data-aos="fade-left">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mb-3 mx-auto" data-aos="fade-left">
 				<img src="{{url_for('static', filename='img/video-call-big-2.png')}}" class="img-fluid">
 			</div>
 		</div>
-		<div class="row justify-content-evenly">
-			<div class="col-xl-3 text-center" data-aos="fade-right">
+		<div class="row row-cols-2 justify-content-evenly">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mx-auto order-2" data-aos="fade-right">
 				<h5>Comunicaciones interactivas</h5>
 				<p>Disfruta de comunicaciones en tiempo real con tus amigos y familiares</p>
 			</div>
-			<div class="col-xl-3 text-center" data-aos="fade-left">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mx-auto order-4" data-aos="fade-left">
 				<h5>Video llamadas</h5>
 				<p>Video llamadas para comunicarse con sus contactos</p>
 			</div>
 		</div>
-		<div class="row justify-content-evenly">
-			<div class="col-xl-3 text-center mt-4 mb-3" data-aos="fade-right">
+		<div class="row row-cols-2 justify-content-evenly">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mt-4 mb-3 mx-auto" data-aos="fade-right">
 				<img src="{{url_for('static', filename='img/call-big-2.png')}}" class="img-fluid">
 			</div>
-			<div class="col-xl-3 text-center mt-4 mb-3" data-aos="fade-left">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mt-4 mb-3 mx-auto" data-aos="fade-left">
 				<img src="{{url_for('static', filename='img/message-big-2.png')}}" class="img-fluid">
 			</div>
 		</div>
-		<div class="row justify-content-evenly">
-			<div class="col-xl-3 text-center" data-aos="fade-right">
+		<div class="row row-cols-2 justify-content-evenly">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mx-auto" data-aos="fade-right">
 				<h5>Llamadas de voz</h5>
 				<p>Comunicación por voz disponible para participantes sin cámara</p>
 			</div>
-			<div class="col-xl-3 text-center" data-aos="fade-left">
+			<div class="col-xxl-4 col-xl-3 col-lg-4 col-md-5 col-sm-5 col-6 text-center mx-auto" data-aos="fade-left">
 				<h5>Mensajería</h5>
 				<p>Mensajería incorporada en las salas de reuniones</p>
 			</div>
 		</div>
 		<footer class="footer mt-auto py-3">
-			<div class="container-fluid">
+			<div class="container-fluid" data-aos="fade-up">
 				<div class="row mt-5 footer text-muted" id="creditos">
-					<div class="col-xl-12 col-md-12"> <br>
+					<div class="col-xl-12 col-md-12 col-12"> <br>
 						<hr>
 					</div>
-					<div class="col-xl-6 col-md-6 text-left">
+					<div class="col-xl-6 col-md-6 col-6 text-left">
 						<h6>Asignatura</h6>
 						<p class="small">Comunicaciones Multimedia</p>
 					</div>
-					<div class="col-xl-6 col-md-6 text-right">
+					<div class="col-xl-6 col-md-6 col-6 text-right">
 						<h6>Hecho por</h6>
 						<ul class="list-unstyled small">
 							<li>Daniil Panasik</li>
